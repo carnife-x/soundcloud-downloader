@@ -8,9 +8,9 @@ soundcloud downloader that downloades music from soundcloud.com, and saves it wi
 + urllib
 
 ## How to run
-clone this repository
-install the required libraries
-run sc_downloader.py
-enter the soundcloud url of the music you want to download
-your file will be downloaded in your folder
++ clone this repository
++ install the required libraries
++ run sc_downloader.py
++ enter the soundcloud url of the music you want to download
++ your file will be downloaded in your folder
 
