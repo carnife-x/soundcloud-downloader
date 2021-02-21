@@ -14,3 +14,6 @@ soundcloud downloader that downloades music from soundcloud.com, and saves it wi
 + enter the soundcloud url of the music you want to download
 + your file will be downloaded in your folder
 
+## Demo
+
+![demo](/bin/how_to_soundcloud.gif)
